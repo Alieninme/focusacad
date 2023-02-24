@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/focusacad/static/css/main.0355c0e9.css",
-    "main.js": "/focusacad/static/js/main.4ec25f9b.js",
+    "main.js": "/focusacad/static/js/main.b1c99db0.js",
     "index.html": "/focusacad/index.html",
     "main.0355c0e9.css.map": "/focusacad/static/css/main.0355c0e9.css.map",
-    "main.4ec25f9b.js.map": "/focusacad/static/js/main.4ec25f9b.js.map"
+    "main.b1c99db0.js.map": "/focusacad/static/js/main.b1c99db0.js.map"
   },
   "entrypoints": [
     "static/css/main.0355c0e9.css",
-    "static/js/main.4ec25f9b.js"
+    "static/js/main.b1c99db0.js"
   ]
 }
