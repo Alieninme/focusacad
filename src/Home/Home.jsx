@@ -48,7 +48,7 @@ useEffect(() => {
 const handleLogout = () => {
    localStorage.clear();
    window.location.reload();
-   navigate("/login")
+   navigate("/")
 
 }
 
