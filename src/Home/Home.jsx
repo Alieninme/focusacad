@@ -12,6 +12,8 @@ export default function Home() {
   const [end, setEnd] = useState(9);
   const navigate = useNavigate();
 
+  const userName = localStorage.getItem("usernameData");
+
   const fetchList = async() => {
     setLoading(true);
     const res = await axios.get("https://randomuser.me/api/?results=500")
