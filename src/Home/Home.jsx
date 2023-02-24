@@ -49,8 +49,9 @@ useEffect(() => {
 
 const handleLogout = () => {
    localStorage.clear();
-   window.location.reload();
+   
    navigate("/focusacad", {replace: true})
+   window.location.reload();
 
 }
 
