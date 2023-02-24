@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/focusacad/static/css/main.dfdd53b9.css",
+    "main.js": "/focusacad/static/js/main.872c6740.js",
+    "index.html": "/focusacad/index.html",
+    "main.dfdd53b9.css.map": "/focusacad/static/css/main.dfdd53b9.css.map",
+    "main.872c6740.js.map": "/focusacad/static/js/main.872c6740.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dfdd53b9.css",
+    "static/js/main.872c6740.js"
+  ]
+}
