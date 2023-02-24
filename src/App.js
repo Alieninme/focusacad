@@ -16,9 +16,9 @@ function App() {
     <div className="App">
     <Router>
       <Routes>
-      <Route path='/home'  element={userName? <Home/> : <Navigate to ="/focusacad"/>} />
+      <Route path='/home'  element={userName? <Home/> : <Navigate to ="/"/>} />
       <Route  exact path="/" element={userName ? <Navigate to ="/home"/> : <Login/>}/>
-      <Route path="/focusacad" element={userName ? <Navigate to ="/home"/> : <Login/>}/>
+      {/* <Route path="/focusacad" element={userName ? <Home/> : <Login/>}/> */}
       </Routes>
     </Router>
     </div>
